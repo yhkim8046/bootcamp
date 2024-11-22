@@ -1,2 +1,6 @@
 print("hello")
-print("hello2")
+
+s = int(1)
+b = int(2)
+
+print(s+b)
